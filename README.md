@@ -1,1 +1,3 @@
 # devops
+
+shell scripting learn
