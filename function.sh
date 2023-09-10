@@ -4,4 +4,4 @@ greetings() {
 }
 
 
-greeting
+greetings
